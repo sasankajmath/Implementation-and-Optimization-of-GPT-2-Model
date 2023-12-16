@@ -1,5 +1,5 @@
-# Implementation and Optimization of GPT-2 Model
-**Implementation and Optimization of GPT-2 Model**
+# **Implementation and Optimization of GPT-2 Model**
+
 
 The project outline involves implementing a scaled-down version of the GPT-2 small model using Python and the PyTorch library. The goal is to build a transformer-based language model similar to GPT-2, which has 125 million parameters. Here is an updated and refined description of the project, including its key components, objectives, deliverables, resources, and potential challenges:
 
